@@ -14,7 +14,7 @@ export default function PoweredBy(props) {
         className='underline justify-start'>
         渝ICP备2025051009号-1
       </a>
-      .
+      
     </div>
   )
 }
