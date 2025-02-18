@@ -12,7 +12,7 @@ export default function PoweredBy(props) {
       <a
         href='https://beian.miit.gov.cn/'
         className='underline justify-start'>
-        渝ICP备2025051009号-1 {siteConfig('VERSION')}
+        渝ICP备2025051009号-1
       </a>
       .
     </div>
