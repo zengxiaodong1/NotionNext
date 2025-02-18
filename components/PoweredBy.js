@@ -10,9 +10,9 @@ export default function PoweredBy(props) {
       className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
       <span>Powered by</span>
       <a
-        href='https://github.com/tangly1024/NotionNext'
+        href='https://beian.miit.gov.cn/'
         className='underline justify-start'>
-        NotionNext {siteConfig('VERSION')}
+        渝ICP备2025051009号-1 {siteConfig('VERSION')}
       </a>
       .
     </div>
